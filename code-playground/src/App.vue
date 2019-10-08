@@ -1,11 +1,18 @@
 <template>
-  <div id="app">
-    <router-view/>
+  <div class="root-container" id="app">
+    <router-view />
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
-}
+  name: "App"
+};
 </script>
+
+<style lang="scss" scoped>
+.root-container {
+  background-color: rgb(255, 226, 145);
+  height: 100%;
+}
+</style>
