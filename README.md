@@ -1,4 +1,4 @@
-# Code-playground
+# Code-playground-with-Monaco
 
 > create and play with amazing charts with FusionCharts
 
